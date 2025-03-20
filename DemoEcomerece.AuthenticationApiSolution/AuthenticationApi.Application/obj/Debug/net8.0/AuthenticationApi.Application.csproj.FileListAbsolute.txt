@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.deps.json
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\refint\AuthenticationApi.Application.dll
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\ref\AuthenticationApi.Application.dll
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DemoEcomerece.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\Authenti.F26204DC.Up2Date

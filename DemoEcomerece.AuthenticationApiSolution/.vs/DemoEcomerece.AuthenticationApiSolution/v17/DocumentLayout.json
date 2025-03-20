@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A9B8D5-E533-4387-90CC-7A852B9651B5}|AuthenticationApi.Infrastruture\\AuthenticationApi.Infrastruture.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.infrastruture\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A9B8D5-E533-4387-90CC-7A852B9651B5}|AuthenticationApi.Infrastruture\\AuthenticationApi.Infrastruture.csproj|solutionrelative:authenticationapi.infrastruture\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A9B8D5-E533-4387-90CC-7A852B9651B5}|AuthenticationApi.Infrastruture\\AuthenticationApi.Infrastruture.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.infrastruture\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A9B8D5-E533-4387-90CC-7A852B9651B5}|AuthenticationApi.Infrastruture\\AuthenticationApi.Infrastruture.csproj|solutionrelative:authenticationapi.infrastruture\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A9B8D5-E533-4387-90CC-7A852B9651B5}|AuthenticationApi.Infrastruture\\AuthenticationApi.Infrastruture.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.infrastruture\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A9B8D5-E533-4387-90CC-7A852B9651B5}|AuthenticationApi.Infrastruture\\AuthenticationApi.Infrastruture.csproj|solutionrelative:authenticationapi.infrastruture\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36BB6E-B5CD-436A-889D-563939B47634}|AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A36BB6E-B5CD-436A-889D-563939B47634}|AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj|solutionrelative:authenticationapi.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.presentation\\authenticationapi.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\authenticationapi.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.presentation\\authenticationapi-20250219.text||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37D2D7A2-862C-48CF-B2F6-9C6D1C56B8C8}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\authenticationapi-20250219.text||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E859AA-70F9-419E-9A89-752F9BFD09BD}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\user\\source\\repos\\demoecomerece.authenticationapisolution\\authenticationapi.application\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E859AA-70F9-419E-9A89-752F9BFD09BD}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:37:08.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationApi.Presentation.http",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.http",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\AuthenticationApi.Presentation.http",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.http",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\AuthenticationApi.Presentation.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-20T13:01:59.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T12:43:58.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Infrastruture\\Data\\AuthenticationDBContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastruture\\Data\\AuthenticationDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Infrastruture\\Data\\AuthenticationDBContext.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastruture\\Data\\AuthenticationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:43:55.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:36:37.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:45:12.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T14:44:07.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Infrastruture\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastruture\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Infrastruture\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastruture\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:15:56.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Infrastruture\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastruture\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Infrastruture\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastruture\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:37:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationApi-20250219.text",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi-20250219.text",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\AuthenticationApi-20250219.text",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi-20250219.text",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\AuthenticationApi-20250219.text",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-20T13:01:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DemoEcomerece.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:55:35.719Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Application.deps.json
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Application.dll
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Application.pdb
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Domain.dll
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Domain.pdb
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.A1672EEC.Up2Date
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.dll
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\refint\OrderApi.Application.dll
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.pdb
+C:\Users\user\source\repos\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\ref\OrderApi.Application.dll
